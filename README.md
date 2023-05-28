@@ -1,5 +1,6 @@
 ### Hi there 👋
 ---
+![](https://komarev.com/ghpvc/?username=Ilya-Chayka99) 
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
