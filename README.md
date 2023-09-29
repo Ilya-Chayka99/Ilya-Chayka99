@@ -1,8 +1,10 @@
-### Hi 👋, my name is Ilya and I am passionate about programming in different languages and platforms. 
+### Hi 👋, my name is href="https://daniilshat.ru/" target="_blank">Ilya</a> and I am passionate about programming in different languages and platforms. 
+---
+Applied Information Technology student from Russia 🇷🇺
 ---
 ![](https://komarev.com/ghpvc/?username=Ilya-Chayka99) 
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Technology Stack:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
