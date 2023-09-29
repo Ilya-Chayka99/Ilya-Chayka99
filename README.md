@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, my name is Ilya and I am passionate about programming in different languages and platforms. 
 ---
 ![](https://komarev.com/ghpvc/?username=Ilya-Chayka99) 
 
