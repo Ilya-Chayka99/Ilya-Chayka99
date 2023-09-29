@@ -25,11 +25,15 @@ Applied Information Technology student from Russia
 ---
 
 ### :fire: My Stats :
+[](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ilya-Chayka99&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ilya-Chayka99&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ilya-Chayka99&show_icons=true&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+
 
